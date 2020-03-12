@@ -1,0 +1,19 @@
+2005-01-17	stephen
+	* Corrected lnpdll, lnpdllx to expect BrickOS .lx files
+	* Fixed Program slot number in lnpdll, lnpdllx (off by one)
+
+2005-01-16	stephen
+	* Renamed dll to lnpdll, dllx to lnpdllx to reflect that they use LNPd
+	* Hmmm patch #904945 didn't work, applied changes as shown at LUGNET
+	  http://news.lugnet.com/news/raw.cgi?lugnet.robotics.rcx.legos,3066
+	* Awakened TODO in order to track pending changes
+	* Add new manpage lnpd.8 
+	* Applied BrickOS patch #904945 submitted by 
+	  Gerard <gerard.sanroma@estudiants.urv.es> fixing LNP communication
+	  with current BrickOS
+	* converted LNPD to autoconf use which adds install targets
+	  and generates makefiles which work on multiple platforms
+
+2005-01-02	stephen
+	* committed first version (v0.1) of Martin Cornelius work to BrickOS CVS
+
