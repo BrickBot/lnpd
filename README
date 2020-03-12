@@ -2,8 +2,9 @@ LNPD
 The LegOS Network Protocol Daemon, which allows for communication between
 brickOS-powered robots and host computers.
 
-The best documentation link appears to perhaps be the following:
+The best documentation links appears to perhaps be the following:
 - http://legos.sourceforge.net/HOWTO/x405.html
+- https://web.archive.org/web/20040627230632/http://www.docs.uu.se/docs/undergrad/instances/spring2002/RTSystemDvpMnp/assignments/notes_on_lnp.html
 
 
 The ir-server program now included with brickOS-bibo likely supercedes lnpd.
