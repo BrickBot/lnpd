@@ -1,4 +1,4 @@
-NOTE:
+DEPRECATION NOTICE:
 The lnphost project was designed to replace this lnpd project.
 
 Since that time, the ir-server program now included with brickOS-bibo has
